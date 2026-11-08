@@ -1,5 +1,7 @@
 # Most Wanted UFO Mini — Python for video games with pygame
 
+*[Versión en español](README.es.md)*
+
 Code and step-by-step PDF guides for every lesson of **Python for video games with pygame**, a
 Magic Lab Studio course where you build **Most Wanted UFO Mini**, a complete space shooter, from an
 empty window to the final boss.
